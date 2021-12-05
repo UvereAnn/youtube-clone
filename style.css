@@ -311,6 +311,7 @@ body{
         height: 50px;
         background: #fff;
         display: flex;
+        flex-grow: 1;
         /*
         position: fixed;
         top: 750px;
